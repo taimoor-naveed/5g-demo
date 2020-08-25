@@ -178,8 +178,8 @@ function drawBuilding() {
         y: (buildingHeight / 8) * 1,
         selected: false,
         scanAngles: {
-            theta: -23,
-            phi: 21
+            theta: 32,
+            phi: 14
         },
         color: [255, 0, 0]
     });
@@ -189,8 +189,8 @@ function drawBuilding() {
         y: (buildingHeight / 8) * 3,
         selected: false,
         scanAngles: {
-            theta: 68,
-            phi: -17
+            theta: 64,
+            phi: -12
         },
         color: [255, 215, 0]
     });
@@ -199,8 +199,8 @@ function drawBuilding() {
         y: (buildingHeight / 8) * 4,
         selected: false,
         scanAngles: {
-            theta: -51,
-            phi: 23
+            theta: 54,
+            phi: 16
         },
         color: [0, 0, 0]
     });
