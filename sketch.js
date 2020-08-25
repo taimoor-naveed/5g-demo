@@ -1,7 +1,7 @@
 let logoImage;
 let roomImage;
 let buildingGraphics;
-let cpeLocation = 1;
+let cpeLocation = 2;
 
 let mouseLocation = {
     x: 0,
